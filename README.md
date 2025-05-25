@@ -13,7 +13,8 @@ y=bin(x)
 print(y)
 ```
 ## Output
-438317251-2e985875-d209-49d9-ad9e-5bb5b133ae3b
+![image](https://github.com/user-attachments/assets/8856c425-acd0-401f-9bd0-4a3f0018dbfe)
+
 
 ## Result
 Thus,the Python program to convert the number 16 into its binary representation using built-in Python functions is created successfully.
